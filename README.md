@@ -9,4 +9,5 @@
 ### Bootstrap component added
 
 ![image](https://github.com/akashbadole/bootstrap-bootwatch/blob/master/campustv-class.jpg)
-![image](https://github.com/akashbadole/bootstrap-bootwatch/blob/master/bootstrap class- ibharati.png)
+<br>
+![bootstrap](https://raw.githubusercontent.com/akashbadole/bootstrap-bootwatch/master/bootstrap%20class-%20ibharati.png)
