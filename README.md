@@ -5,3 +5,5 @@
 <- using Bootstrap
 <- using jquery
 <- using zurb foundation
+
+### Bootstrap component added
